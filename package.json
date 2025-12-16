@@ -1,0 +1,15 @@
+{
+  "name": "backendvishal",
+  "version": "1.0.0",
+  "description": "THis is a backend proj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "Vishal Chavan",
+  "license": "ISC"
+}
